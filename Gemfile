@@ -40,6 +40,10 @@ group :development, :test do
   gem 'pry'
   gem 'rspec-rails'
   gem 'simplecov'
+  gem "pry-rails"
+  gem "pry-doc"
+  gem "pry-rescue"
+  gem "awesome_print"
 end
 
 group :development do
